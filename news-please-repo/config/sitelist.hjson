@@ -1,0 +1,376 @@
+{
+    "base_urls": [
+        {
+            "url": "https://24horas.com.br/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://24horas.com.br/politica/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://24horas.com.br/parana/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "http://abcam.org.br/index.php/pt/noticias",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://agoralitoral.com.br/noticias/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.andes.org.br/sites/noticias",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://appsindicato.org.br/category/noticias/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://apufpr.org.br/noticias-sindicais/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "http://www.assuel.com.br/noticias",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://blogdoroque.com.br/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://contraponto.jor.br/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://contraponto.jor.br/category/parana/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.cut.org.br/noticias",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.diariodosudoeste.com.br/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.esmaelmorais.com.br/category/noticias/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.fabiocampana.com.br/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://findect.org.br/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.folhadelondrina.com.br/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.folhademaringa.com/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.folhademaringa.com/parana/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.folhademaringa.com/geral/lava-jato/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.folhademaringa.com/geral/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.folhademaringa.com/policial/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.folhademaringa.com/politica/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://folhadolitoral.com.br/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://folhadolitoral.com.br/policia/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://folhadolitoral.com.br/politica/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.maringanahora.com/noticias",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "http://www.mppr.mp.br/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "http://www.comunicacao.mppr.mp.br/modules/noticias/arquivo.php",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.obemdito.com.br/regiao/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "http://www.obemdito.com.br/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.obemdito.com.br/politica/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.obemdito.com.br/noticias-umuarama/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://jornal.paranacentro.com.br/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://paranavai.portaldacidade.com/noticias",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "http://www.pf.gov.br/imprensa/noticias",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "http://www.pf.gov.br/imprensa/noticias/todas",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "http://www.pf.gov.br/@@busca?SearchableText=PARAN%C3%81",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.plantaomaringa.com/noticias/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "http://portalculturasulfm.com.br/politica/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "http://portalculturasulfm.com.br/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "http://portalculturasulfm.com.br/policia/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "http://portalculturasulfm.com.br/category/cidadania/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.prf.gov.br/agencia/estados/parana/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.prf.gov.br/agencia/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://pt.org.br/noticias-do-pt/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://pt.org.br/artigos/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://pt.org.br/brasil/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://pt.org.br/midia/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://pt.org.br/movimentos-sociais/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://pt.org.br/economia/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "http://sidepol.org.br/category/noticias/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "http://sidepol.org.br/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://sinclapol.com.br/noticias/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "http://www.sindarspen.org.br/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "http://www.sindarspen.org.br/noticias/todas",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.sindifer.org.br/noticias",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.sindifer.org.br/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "http://sindimoc.org.br/?area=noticias",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://sindipetroprsc.org.br/site/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "http://www.sindipollondrina.com.br/wordpress/?cat=6",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://sindiproladuel.org.br/boletins/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.sinditest.org.br/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.sinditest.org.br/category/geral/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "http://www.sintcompr.org.br/Default/NoticiaIndiceTodas/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "http://www.sintcompr.org.br/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://sinteoestepr.com.br/Noticias",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://sismuc.org.br/indice-noticias",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://tarobanews.com/noticias",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://tarobanews.com/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.gazetadopovo.com.br/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.gazetadopovo.com.br/ultimas-noticias/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.bandab.com.br/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.bandab.com.br/ultimas-noticias/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.tribunapr.com.br/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.tribunapr.com.br/noticias/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.bonde.com.br/bondenews/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.bonde.com.br/bondenews/parana/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.bonde.com.br/bondenews/policia/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.catve.com/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.catve.com/ultimas-noticias",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://g1.globo.com/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://g1.globo.com/pr/parana/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://redeglobo.globo.com/rpc/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://odiariodemaringa.com.br/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://odiariodemaringa.com.br/category/noticias/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.redemassa.com.br/tribuna-da-massa-maringa/massa-news/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.redemassa.com.br/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.redemassa.com.br/noticias/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.bemparana.com.br/",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://www.bemparana.com.br/plantao",
+            "crawler": "RecursiveCrawler"
+        },
+        {
+            "url": "https://paranaportal.uol.com.br/",
+            "crawler": "RecursiveCrawler"
+        }
+    ]
+}
